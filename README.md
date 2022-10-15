@@ -1,0 +1,2 @@
+# GitHubTest
+Checking all commands
